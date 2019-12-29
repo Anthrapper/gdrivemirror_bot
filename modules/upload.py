@@ -128,7 +128,7 @@ def upload(filename):
 def shorten(dwnld_url):
 	URL = dwnld_url
 	api_token = Creds.SHORTNER_API_TOKEN
-	api_url = "https://api.shorte.st/s/"+api_token+"/"+URL
+	api_url = "https://gplinks.in/api?api="+api_token+"&url="+URL
 	r = requests.get(api_url)
 	data = r.json()
 	shortened_url = data.get('shortenedUrl')
