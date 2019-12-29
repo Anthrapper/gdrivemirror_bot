@@ -1,6 +1,6 @@
 class Creds(object):
-    TOKEN = "982503685:AAHtkp0p-XMtHuU3fEsr55YP_2T9aa2qWpo"
-    CLIENT_ID = "604374977160-25iq5tv4b9lccmq9e0o5vce4jng259hp.apps.googleusercontent.com"
-    CLIENT_SECRET = "I9zb6LsGfvEDDAU--Hm9WmXz"
-    PATH_ID = "1_mboCE-iUqjIZ3FQk0F-Pqp4ejEkOQWi"
-    USER_ID = "673742688"
+    TOKEN = "660020918:AAGWs5PSdYa1166Uf-3dbwByxcXTdV_F2rw"
+    CLIENT_ID = "6496180352-27noan3kvk4bvvrtab6lq7i51o5bfv8e.apps.googleusercontent.com"
+    CLIENT_SECRET = "oTZOcoqC7gikgP_e0Cd3r2nX"
+    PATH_ID = "1L0RfBgJamwyKpFQPvS0r3CnMN-ZeTOXR"
+    USER_ID = "275484069"
